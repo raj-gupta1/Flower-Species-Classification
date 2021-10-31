@@ -98,7 +98,7 @@ pyrsistent==0.16.0
 PySocks
 python-dateutil
 pytz==2020.1
-pywin32
+pywin32==223
 pywinpty==0.5.7
 pyzmq==19.0.1
 qtconsole==4.7.4
