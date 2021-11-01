@@ -6,7 +6,10 @@
  <h3> VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION. Karen Simonyan∗ & Andrew Zisserman +
 Visual Geometry Group, Department of Engineering Science, University of Oxford {karen,az}@robots.ox.ac.uk </h3>
     <br> 
-    
+  
+   <h1> Dataset:   </h1>
+    https://www.kaggle.com/alxmamaev/flowers-recognition
+     <br> 
   <h1> Architecture used</h1>
  <p title=Architecture used>  
 <ul>
