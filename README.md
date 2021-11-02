@@ -14,8 +14,21 @@ Visual Geometry Group, Department of Engineering Science, University of Oxford {
  <p title=Architecture used>  
 <ul>
 <li>VGG16</li>
+  <li>MobileNetV2</li>
+ <li>Self created 5 CNN models</li>  
 <li> No. of classes: 5</li>
   </ul> </p>  
+ <br> 
+ 
+  <h1> Metrics for 20 Epochs (for VGG16) </h1>
+ <p title= Metrics for 20 Epochs >  
+<ul>
+  
+<li>loss: 0.0066</li>  
+<li>accuracy: 1.0000</li>
+  <li>val_loss: 0.7674</li>
+<li>val_accuracy: 0.8125</li>
+ </p>  
  <br> 
  
  <h1>Deployment</h1> 
