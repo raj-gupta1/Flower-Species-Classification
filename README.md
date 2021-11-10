@@ -4,7 +4,9 @@
    
   <h1>Paper Referenced from:</h1>
  <h3> VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION. Karen Simonyan∗ & Andrew Zisserman +
-Visual Geometry Group, Department of Engineering Science, University of Oxford {karen,az}@robots.ox.ac.uk </h3>
+Visual Geometry Group, Department of Engineering Science, University of Oxford {karen,az}@robots.ox.ac.uk <br>
+https://arxiv.org/pdf/1409.1556.pdf
+</h3>
     <br> 
   
    <h1> Dataset:   </h1>
