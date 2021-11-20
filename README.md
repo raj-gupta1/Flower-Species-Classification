@@ -36,7 +36,7 @@ https://arxiv.org/pdf/1409.1556.pdf
  <h1>Deployment</h1> 
 <p title=Deployment>  
 <ul>
-<li>Didn't deployed the project due to heroku storage limit.</li>
+<li>Deployed it as a web app using Flask.</li>
 <!-- <li> I didn't add much because of github limits to storage.</li> -->
  </ul> </p> 
  <br> 
